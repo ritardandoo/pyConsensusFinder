@@ -1,1 +1,2 @@
 # pyConsensusFinder
+HMMER version
